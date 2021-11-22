@@ -10,4 +10,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning angular, node.js
 - 📬 How to reach me: jessicaalejandratc@gmail.com and [linkedin](https://www.linkedin.com/in/jessica-alejandra-toro/).
 - ⚡ Fun fact: I'm 👩🏽‍🍼 mom of 5 cats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ToroAlejandra&hide=stars&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--- 4💬 Ask me about programation logic, cats and plants-->
