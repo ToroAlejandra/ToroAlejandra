@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 <!--
+<img width="150" src="https://github.com/oriananohemi/oriananohemi/blob/master/img/23bdbb2377322553edd9df0fd4b5d17b.gif">
+
 **ToroAlejandra/ToroAlejandra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
