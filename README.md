@@ -8,7 +8,7 @@
 Here are some ideas to get you started:
 -->
 - 👩🏽‍💻 I'm JS and Angular developer
-- 🔭 I’m currently student on laboratoria
+- 🔭 I’m currently studying QA automator
 - 🌱 I’m currently learning devops
 - 📬 How to reach me: jessicaalejandratc@gmail.com and [linkedin](https://www.linkedin.com/in/jessica-alejandra-toro/).
 - ⚡ Fun fact: I'm 👩🏽‍🍼 mom of 5 cats
